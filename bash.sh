@@ -1,2 +1,2 @@
-echo "starting Bot ~@S8Y8S";
+echo "Starting EasyAdvAuto...."
 python3 -m main
